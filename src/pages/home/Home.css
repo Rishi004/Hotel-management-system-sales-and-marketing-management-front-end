@@ -1,0 +1,70 @@
+.home {
+    max-width: 100% !important;
+    background-color: white !important;
+}
+
+.top-div {
+    max-width: 100% !important;
+}
+
+.bottom-div {
+    max-width: 100% !important;
+}
+
+.home-img {
+    max-width: 130%;
+    height: 15ch;
+    margin: 35px;
+    border-radius: 5px;
+}
+
+.title-head {
+    margin-left: 2ch;
+    font-weight: bolder;
+}
+
+.icon-home {
+    color: rgb(83, 83, 83) !important;
+    margin-left: 15ch;
+    margin-top: -4ch;
+}
+
+.btn-home {
+    color: rgb(83, 83, 83) !important;
+    margin-left: 32ch !important;
+    margin-top: -35ch !important;
+    background-color: yellow !important;
+    font-style: normal !important;
+}
+
+.btn-home-room {
+    color: rgb(83, 83, 83) !important;
+    margin-left: 32ch !important;
+    margin-top: -29ch !important;
+    background-color: yellow !important;
+    font-style: normal !important;
+}
+
+.btn-home-stock {
+    color: rgb(83, 83, 83) !important;
+    margin-left: 32ch !important;
+    margin-top: -29ch !important;
+    background-color: yellow !important;
+    font-style: normal !important;
+}
+
+.btn-home-vehicle {
+    color: rgb(83, 83, 83) !important;
+    margin-left: 32ch !important;
+    margin-top: -29ch !important;
+    background-color: yellow !important;
+    font-style: normal !important;
+}
+
+.home-log-out {
+    margin-left: 170ch !important;
+    margin-top: 5ch !important;
+    background-color: rgb(245, 70, 70) !important;
+    font-weight: bold !important;
+    color: white !important;
+}

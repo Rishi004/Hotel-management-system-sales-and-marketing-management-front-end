@@ -1,0 +1,47 @@
+.bygone-main-div {
+    /* margin-top: 5ch !important; */
+    max-width: 100% !important;
+}
+
+.plan-head {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+.add-new-bygone {
+    width: 17ch !important;
+    margin-left: 140ch !important;
+}
+
+.download-bygone {
+    width: 9ch !important;
+    margin-left: 68ch !important;
+    height: 2.3ch;
+    border-radius: 5px;
+    background-color: rgb(147, 247, 177);
+}
+
+.errorMsg {
+    font-size: 13px;
+    color: red;
+    margin-left: 5ch;
+}
+
+.add-plan-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+}
+
+.date-picker {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch;
+}
+
+.input {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch !important;
+}
+
+.search-input {
+    margin-left: 63ch !important;
+}

@@ -1,0 +1,36 @@
+.current-main-div {
+    margin-top: 5ch !important;
+    height: 585px;
+    max-width: 100% !important;
+}
+
+.plan-head {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+.add-new-current {
+    width: 17ch !important;
+    margin-left: 20ch !important;
+}
+
+.errorMsg {
+    font-size: 13px;
+    color: red;
+    margin-left: 5ch;
+}
+
+.add-plan-btn {
+    margin: 8px 50px 8px 300px !important;
+    width: 20ch !important;
+}
+
+.date-picker {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch;
+}
+
+.input {
+    margin: 8px 64px 8px 64px !important;
+    width: 25ch !important;
+}
